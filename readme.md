@@ -1,14 +1,17 @@
-## Template website undangan pernikahan sederhana
+Undangan Pernikahan
 
-##### Demo: https://dewanakl.github.io/undangan/?to=Teman+teman+semua
+Rahma & Endri
 
-##### Deployment API: https://dikit.my.id/DeploymentUndanganAPI
+Bersama Bahagia Melangkah ke Pernikahan
 
-### Tech stack
-- Bootstrap 5.3.0-alpha3
-- AOS 2.3.4
-- Fontawsome 6.4.0
-- Google Fonts
-- Vanilla JS
+Tanggal: 23 Juni 2023
 
-### Terima kasih banyak teman teman
+Lokasi: Pati
+
+Mohon kehadiran dan doa restu Anda pada acara pernikahan kami.
+
+Terima kasih atas perhatian dan kehadiran Anda.
+
+Salam hangat,
+
+Rahma & Endri
